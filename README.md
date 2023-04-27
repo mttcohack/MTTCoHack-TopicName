@@ -4,6 +4,8 @@
 
 In this challenge-based hackathon, we will work together to ...
 
+![image](./images/image.png)
+
 ## Requirements
 
 - Requirement 1
